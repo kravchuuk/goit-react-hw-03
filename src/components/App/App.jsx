@@ -1,4 +1,4 @@
-import { ContactForm } from "../Contact/Contact";
+import { ContactForm } from "../ContactForm/Contactform";
 import { SearchBox } from "../SearchBox/SearchBox";
 import { ContactList } from "../ContactList/ContactList";
 import contactList from "../../data/ContactList.json";
